@@ -1,17 +1,14 @@
-TDG structural health monitoring assignment README file
+README file for the  TDG structural health monitoring company assignment 
 
 
 !----IMPORTANT-----!
 
-BEFORE RUNNING, CREATE YOUR OWN API KEY ON 
-https://www.omdbapi.com/
+BEFORE RUNNING
+Create your API key on the [OMDb API website](http://www.omdbapi.com/apikey.aspx).
+You can use a temporary email for registration, try [10 Minute Mail](https://10minutemail.com).
 
-You can use 10 minute mail. 
 
-https://10minutemail.com
-
-When creating a new Utils object, use this api key. 
-This api key is used to get movie information from the Omdb database. 
+This application may not work properly when using a VPN or proxy, as OMDb API requests can fail. For best results, use a direct internet connection.
 
 
 ---------------------------------------------------------------------------
