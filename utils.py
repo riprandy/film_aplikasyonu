@@ -34,7 +34,7 @@ class UtilFuncs:
             return None
 
         return matched_movie
-
+    
     def get_movie_info_by_id(self, imdb_id):
         params = {
             "i": imdb_id,
@@ -94,3 +94,5 @@ class UtilFuncs:
 
         genre = details.get("Genre", "Bilinmiyor")
         return genre
+
+#new comment added 
