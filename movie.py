@@ -12,7 +12,7 @@ class Film:
         self.yil = yil
         self.puan = puan  # not 
         
-
+#comment
     def __str__(self):
         return f"{self.isim} ({self.yil}) - {self.yonetmen}, {self.sure} dk , {self.puan}"   #print overload?? idk python
     
